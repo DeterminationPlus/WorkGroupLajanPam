@@ -24,15 +24,14 @@ The following **optional** features are implemented:
 
  
 ##  Liste de cas possibles
-
-:
-    **Compte**
+     
+      :
+       **Compte**
       - Créer compte
       - Visualiser compte
       - Modifier compte (Pour lequel il n’y a pas de transactions)
       - Activer et désactiver compte 
       
-      :
      **Transactions**
        -Enregistrer transaction
        -Visualiser Transactions
