@@ -33,7 +33,19 @@ The following **optional** features are implemented:
        -Enregistrer transaction
 			 -Visualiser Transactions
 			 -Supprimer transactions
+##  Liste de cas possibles
 
+:
+    **Compte**
+      -Créer compte
+      -Visualiser compte
+      -Modifier compte (Pour lequel il n’y a pas de transactions)
+      -Activer et désactiver compte 
+      :
+     **Transactions**
+       -Enregistrer transaction
+       -Visualiser Transactions
+       -Supprimer transactions
 
 
 ## Video Walkthrough
