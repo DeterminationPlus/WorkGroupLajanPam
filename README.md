@@ -23,19 +23,19 @@ The following **optional** features are implemented:
 - [] User can view statistics
 
  
-##  Liste de cas possibles
+##  List of possible cases
      
       :
-       **Compte**
-      - Créer compte
-      - Visualiser compte
-      - Modifier compte (Pour lequel il n’y a pas de transactions)
-      - Activer et désactiver compte 
+       **Account**
+      - Create Account
+      - View Account
+      - Edit account (For which there are no transactions)
+      - Enable and disable account
       
      **Transactions**
-       -Enregistrer transaction
-       -Visualiser Transactions
-       -Supprimer transactions
+       -Save transaction
+       -View transaction
+       -Delete transaction
 
 
 ## Video Walkthrough
