@@ -27,10 +27,11 @@ The following **optional** features are implemented:
 
 :
     **Compte**
-      -Créer compte
-      -Visualiser compte
-      -Modifier compte (Pour lequel il n’y a pas de transactions)
-      -Activer et désactiver compte 
+      [X] Créer compte
+      [X] Visualiser compte
+      [X] Modifier compte (Pour lequel il n’y a pas de transactions)
+      [X] Activer et désactiver compte 
+      
       :
      **Transactions**
        -Enregistrer transaction
